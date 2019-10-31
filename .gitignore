@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL filesa
 __pycache__/
 *.py[cod]
 new
@@ -9,7 +9,7 @@ new
 
 # Distribution / packaging
 .Python
-build/
+build/ss
 develop-eggs/
 dist/
 downloads/
