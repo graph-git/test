@@ -1,6 +1,6 @@
-# Byte-compiled / optimized / DLL filesa
+# Byte-compiled / optimized / DLL filesa jj  j
 __pycache__/
-*.py[cod]
+*.py[cod]s
 new
 *$py.class
 
@@ -103,3 +103,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
