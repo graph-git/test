@@ -8,7 +8,7 @@ new
 *.so
 
 # Distribution / packagings
-.Python
+.Pythons
 build/ss
 develop-eggs/
 dist/
