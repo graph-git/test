@@ -1,18 +1,14 @@
-<<<<<<< HEAD
-# Byte-compiled / optimized / DLL filesf
-=======
-# Byte-compiled / optimized / DLL filesa
->>>>>>> grana2
+# Byte-compiled / optimized / DLL filesa jj  j
 __pycache__/
-*.py[cod]
-newf
+*.py[cod]s
+newd
 *$py.class
 
 # C extensions
 *.so
 
-# Distribution / packaging
-.Python
+# Distribution / packagings
+.Pythons
 build/ss
 develop-eggs/
 dist/
@@ -40,7 +36,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit test / coverage reportsff
 htmlcov/
 .tox/
 .coverage
@@ -107,3 +103,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+s
+
